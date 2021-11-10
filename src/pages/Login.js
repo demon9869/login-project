@@ -14,7 +14,7 @@ export function Login() {
                     </div>
                     <div className="form-floating mb-3 mt-3">
                         <input type="email" className="form-control" id="Email1" placeholder="Email Address" required />
-                        <label htmlFor="Email1">Email Address</label>
+                        <label htmlFor="Email1">Email</label>
                         <div className="valid-feedback">Valid</div>
                         <div className="invalid-feedback">In-Valid</div>
                     </div>
